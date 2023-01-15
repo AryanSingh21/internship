@@ -1,0 +1,42 @@
+.App {
+  background-image: url("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  margin: 0;
+  background-size: cover;
+}
+.box1 {
+  margin-top: 0vh;
+  margin-left: 5vh;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 40vh;
+  width: 100%;
+  color: aliceblue;
+  border: 20px;
+  border-color: aliceblue;
+}
+.form-group {
+  gap: 2.5vh;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  width: 40vw;
+}
+.tableData {
+  margin-top: 20vh;
+  height: 50vh;
+  width: 60%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: aliceblue;
+}
+.DataGrid {
+  width: 40vw;
+  color: aliceblue;
+}
+.cont {
+  display: flex;
+  justify-content: flex-end;
+  color: aliceblue;
+}
